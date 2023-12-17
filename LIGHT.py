@@ -15,7 +15,7 @@ message = En.encrypt
 print("Message to be transmitted: ", message)
 wn = turtle.Screen()  # creates a virtual screen
 wn.title("MESSAGE")   # named MESSAGE
-wn.bgpic("Background.png")  # adding background image
+wn.bgpic("Image/Background.png")  # adding background image
 l_message = list()  # list to add the status of the signal after 1 unit of delay
 
 # FLASH LIGHT
